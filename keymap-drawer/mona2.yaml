@@ -39,7 +39,7 @@ layers:
   - LEFT ALT
   - LEFT ARROW
   - {t: SPACE, h: default}
-  - {t: CAPSLOCK, h: '6'}
+  - {t: LANG1, h: '6'}
   - BACKSPACE
   - {t: ENTER, h: '1'}
   - RIGHT ARROW
@@ -312,3 +312,5 @@ combos:
   k: {t: BT, h: '2'}
 - p: [6, 7]
   k: BT CLR ALL
+- p: [37, 38]
+  k: LANG2

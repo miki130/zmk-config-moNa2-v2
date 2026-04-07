@@ -296,7 +296,7 @@ path.combo {
 </a></g>
 <g transform="translate(308, 196)" class="key keypos-38">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap"><tspan style="font-size: 88%">CAPSLOCK</tspan></text>
+<text x="0" y="0" class="key tap">LANG1</text>
 <a href="#x_x">
 <text x="0" y="24" class="key hold layer-activator">6</text>
 </a></g>
@@ -346,6 +346,10 @@ path.combo {
 <text x="560" y="28" class="combo tap">
 <tspan x="560" dy="-0.6em">BT</tspan><tspan x="560" dy="1.2em">…</tspan>
 </text>
+</g>
+<g class="combo combopos-5">
+<rect rx="6" ry="6" x="266" y="183" width="28" height="26" class="combo"/>
+<text x="280" y="196" class="combo tap">LANG2</text>
 </g>
 </g>
 </g>
@@ -556,6 +560,10 @@ path.combo {
 <tspan x="560" dy="-0.6em">BT</tspan><tspan x="560" dy="1.2em">…</tspan>
 </text>
 </g>
+<g class="combo combopos-5">
+<rect rx="6" ry="6" x="266" y="183" width="28" height="26" class="combo"/>
+<text x="280" y="196" class="combo tap">LANG2</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 560)" class="layer-2">
@@ -765,6 +773,10 @@ path.combo {
 <text x="560" y="28" class="combo tap">
 <tspan x="560" dy="-0.6em">BT</tspan><tspan x="560" dy="1.2em">…</tspan>
 </text>
+</g>
+<g class="combo combopos-5">
+<rect rx="6" ry="6" x="266" y="183" width="28" height="26" class="combo"/>
+<text x="280" y="196" class="combo tap">LANG2</text>
 </g>
 </g>
 </g>
@@ -998,6 +1010,10 @@ path.combo {
 <tspan x="560" dy="-0.6em">BT</tspan><tspan x="560" dy="1.2em">…</tspan>
 </text>
 </g>
+<g class="combo combopos-5">
+<rect rx="6" ry="6" x="266" y="183" width="28" height="26" class="combo"/>
+<text x="280" y="196" class="combo tap">LANG2</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 1120)" class="layer-4">
@@ -1212,6 +1228,10 @@ path.combo {
 <text x="560" y="28" class="combo tap">
 <tspan x="560" dy="-0.6em">BT</tspan><tspan x="560" dy="1.2em">…</tspan>
 </text>
+</g>
+<g class="combo combopos-5">
+<rect rx="6" ry="6" x="266" y="183" width="28" height="26" class="combo"/>
+<text x="280" y="196" class="combo tap">LANG2</text>
 </g>
 </g>
 </g>
@@ -1432,6 +1452,10 @@ path.combo {
 <tspan x="560" dy="-0.6em">BT</tspan><tspan x="560" dy="1.2em">…</tspan>
 </text>
 </g>
+<g class="combo combopos-5">
+<rect rx="6" ry="6" x="266" y="183" width="28" height="26" class="combo"/>
+<text x="280" y="196" class="combo tap">LANG2</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 1680)" class="layer-6">
@@ -1634,6 +1658,10 @@ path.combo {
 <text x="560" y="28" class="combo tap">
 <tspan x="560" dy="-0.6em">BT</tspan><tspan x="560" dy="1.2em">…</tspan>
 </text>
+</g>
+<g class="combo combopos-5">
+<rect rx="6" ry="6" x="266" y="183" width="28" height="26" class="combo"/>
+<text x="280" y="196" class="combo tap">LANG2</text>
 </g>
 </g>
 </g>
