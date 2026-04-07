@@ -21,7 +21,7 @@ layers:
   - J
   - K
   - L
-  - ;
+  - '-'
   - Z
   - {t: LSHFT, h: X}
   - C
