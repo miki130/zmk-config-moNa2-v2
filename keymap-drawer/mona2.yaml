@@ -22,12 +22,12 @@ layers:
   - K
   - L
   - ;
-  - {t: Z, h: LEFT SHIFT}
-  - X
+  - Z
+  - {t: LSHFT, h: X}
   - C
   - V
   - B
-  - F14
+  - TAB
   - DOWN ARROW
   - N
   - M
@@ -39,8 +39,8 @@ layers:
   - LEFT ALT
   - LEFT ARROW
   - {t: SPACE, h: default}
-  - {t: '&to_layer_0 CAPSLOCK', h: '5'}
-  - BACKSPACE
+  - CAPSLOCK
+  - {t: DELETE, h: '5'}
   - {t: ENTER, h: '1'}
   - RIGHT ARROW
   '1':
@@ -254,8 +254,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
   - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   '6':
@@ -304,5 +304,9 @@ layers:
 combos:
 - p: [39, 38]
   k: {t: ESC, h: '4'}
-- p: [11, 12]
-  k: TAB
+- p: [5, 6]
+  k: {t: BT, h: '0'}
+- p: [16, 17]
+  k: {t: BT, h: '1'}
+- p: [28, 29]
+  k: {t: BT, h: '2'}
