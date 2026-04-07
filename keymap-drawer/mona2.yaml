@@ -310,3 +310,5 @@ combos:
   k: {t: BT, h: '1'}
 - p: [28, 29]
   k: {t: BT, h: '2'}
+- p: [6, 7]
+  k: BT CLR ALL

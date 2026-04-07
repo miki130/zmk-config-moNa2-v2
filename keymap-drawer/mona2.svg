@@ -339,6 +339,12 @@ path.combo {
 <a href="#x_x">
 <text x="504" y="151" class="combo hold layer-activator">2</text>
 </a></g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="546" y="15" width="28" height="26" class="combo"/>
+<text x="560" y="28" class="combo tap">
+<tspan x="560" dy="-0.6em">BT</tspan><tspan x="560" dy="1.2em">…</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 280)" class="layer-1">
@@ -542,6 +548,12 @@ path.combo {
 <a href="#x_x">
 <text x="504" y="151" class="combo hold layer-activator">2</text>
 </a></g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="546" y="15" width="28" height="26" class="combo"/>
+<text x="560" y="28" class="combo tap">
+<tspan x="560" dy="-0.6em">BT</tspan><tspan x="560" dy="1.2em">…</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 560)" class="layer-2">
@@ -746,6 +758,12 @@ path.combo {
 <a href="#x_x">
 <text x="504" y="151" class="combo hold layer-activator">2</text>
 </a></g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="546" y="15" width="28" height="26" class="combo"/>
+<text x="560" y="28" class="combo tap">
+<tspan x="560" dy="-0.6em">BT</tspan><tspan x="560" dy="1.2em">…</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 840)" class="layer-3">
@@ -972,6 +990,12 @@ path.combo {
 <a href="#x_x">
 <text x="504" y="151" class="combo hold layer-activator">2</text>
 </a></g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="546" y="15" width="28" height="26" class="combo"/>
+<text x="560" y="28" class="combo tap">
+<tspan x="560" dy="-0.6em">BT</tspan><tspan x="560" dy="1.2em">…</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 1120)" class="layer-4">
@@ -1181,6 +1205,12 @@ path.combo {
 <a href="#x_x">
 <text x="504" y="151" class="combo hold layer-activator">2</text>
 </a></g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="546" y="15" width="28" height="26" class="combo"/>
+<text x="560" y="28" class="combo tap">
+<tspan x="560" dy="-0.6em">BT</tspan><tspan x="560" dy="1.2em">…</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 1400)" class="layer-5">
@@ -1394,6 +1424,12 @@ path.combo {
 <a href="#x_x">
 <text x="504" y="151" class="combo hold layer-activator">2</text>
 </a></g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="546" y="15" width="28" height="26" class="combo"/>
+<text x="560" y="28" class="combo tap">
+<tspan x="560" dy="-0.6em">BT</tspan><tspan x="560" dy="1.2em">…</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 1680)" class="layer-6">
@@ -1592,6 +1628,12 @@ path.combo {
 <a href="#x_x">
 <text x="504" y="151" class="combo hold layer-activator">2</text>
 </a></g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="546" y="15" width="28" height="26" class="combo"/>
+<text x="560" y="28" class="combo tap">
+<tspan x="560" dy="-0.6em">BT</tspan><tspan x="560" dy="1.2em">…</tspan>
+</text>
+</g>
 </g>
 </g>
 </svg>
